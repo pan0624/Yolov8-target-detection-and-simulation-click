@@ -1,0 +1,10 @@
+path: D:\yolov8\datasets\pvz  # dataset root dir
+train: images  # train images (relative to 'path') 128 images
+val: images  # val images (relative to 'path') 128 images
+
+names:
+  0: common
+  1: hat
+  2: cat
+  3: iron
+  4: sun
