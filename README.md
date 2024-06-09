@@ -434,7 +434,4 @@ if __name__ == "__main__":
 ```
 
 # 成果展示
-
-<video width="720" height="303" controls>
-<source src="https://movie.cy798.cn/%E9%BB%91%E8%B1%B9.Black.Panther.2018.BD720P.X264.AAC.English.CHS-ENG.mp4" type="video/mp4">
-</video>
+https://mp4.ziyuan.wang/view.php/e88b97cc1951a8f05773b902dd9a004f.mp4
