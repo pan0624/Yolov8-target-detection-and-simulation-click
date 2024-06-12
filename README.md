@@ -436,7 +436,5 @@ if __name__ == "__main__":
 ```
 
 # 成果展示
-<video controls width="100%">
-    <source src="http://storage.live.com/items/6D2785503C1134C!259:/录屏2024-06-08 20.12.01.mp4" type="video/mp4">
-</video>
+
 http://storage.live.com/items/6D2785503C1134C!259:/录屏2024-06-08 20.12.01.mp4
